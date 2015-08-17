@@ -1,0 +1,24 @@
+{
+  "olpVersion" : "0.1",
+
+  "paths" : [
+    {
+      "name" : "ng-conf-2015",
+      "title" : "ng-conf 2015",
+      "description" : "Watch videos of all the talks of ng-conf 2015.",
+      "privacy" : "public",
+      "pages" : [
+        {"page" : "./pages/ng-conf-welcome.md"},
+        {"module" : "REPLACE-ME"},
+      ]
+    }
+  ],
+
+  "modules" : [
+    {"olm" : "./modules/REPLACE-ME.md"},
+
+  ],
+
+  "assets" : [
+  ]
+}
