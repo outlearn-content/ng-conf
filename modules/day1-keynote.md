@@ -2,7 +2,7 @@
 {
 "name" : "day1-keynote",
 "version" : "0.1",
-"title" : "NG-CONF 2015 DAY 1 KEYNOTE",
+"title" : "Ng-Conf 2015 Day 1 Keynote",
 "description" : "TBD",
 "homepage" : "https://www.youtube.com/embed/QHulaj5ZxbI",
 "canonicalSource" : "https://www.youtube.com/embed/QHulaj5ZxbI",
