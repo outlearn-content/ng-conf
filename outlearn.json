@@ -10,14 +10,18 @@
       "pages" : [
         {"page" : "./pages/ng-conf-welcome.md"},
         {"module" : "day1-keynote"},
-        {"module" : "state-of-angular-1"}
+        {"module" : "state-of-angular-1"},
+        {"module" : "the-new-router"},
+        {"module" : "prototyping-with-angular"}
       ]
     }
   ],
 
   "modules" : [
     {"olm" : "./modules/day1-keynote.md"},
-    {"olm" : "./modules/state-of-angular-1.md"}
+    {"olm" : "./modules/state-of-angular-1.md"},
+    {"olm" : "./modules/the-new-router.md"},
+    {"olm" : "./modules/prototyping-with-angular.md"}
 
   ],
 
