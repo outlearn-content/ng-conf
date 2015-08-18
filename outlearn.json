@@ -10,14 +10,14 @@
       "pages" : [
         {"page" : "./pages/ng-conf-welcome.md"},
         {"module" : "day1-keynote"},
-        {"module" : "day1-keynote"}
+        {"module" : "state-of-angular-1"}
       ]
     }
   ],
 
   "modules" : [
     {"olm" : "./modules/day1-keynote.md"},
-    {"olm" : "./modules/day1-keynote.md"}
+    {"olm" : "./modules/state-of-angular-1.md"}
 
   ],
 
