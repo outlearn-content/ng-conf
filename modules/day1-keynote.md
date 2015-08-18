@@ -1,0 +1,20 @@
+<!--
+{
+"name" : "day1-keynote",
+"version" : "0.1",
+"title" : "NG-CONF 2015 DAY 1 KEYNOTE",
+"description" : "TBD",
+"homepage" : "https://www.youtube.com/embed/QHulaj5ZxbI",
+"canonicalSource" : "https://www.youtube.com/embed/QHulaj5ZxbI",
+"freshnessDate" : 2015-03-05,
+"license" : "All Rights Reserved"
+}
+-->
+
+<!-- @section -->
+
+## Video
+
+This talk was given at ng-conf 2015 in Salt Lake City Utah.
+
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/QHulaj5ZxbI" -->
