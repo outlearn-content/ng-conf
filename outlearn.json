@@ -12,7 +12,12 @@
         {"module" : "day1-keynote"},
         {"module" : "state-of-angular-1"},
         {"module" : "the-new-router"},
-        {"module" : "prototyping-with-angular"}
+        {"module" : "prototyping-with-angular"},
+        {"module" : "fast-from-the-start"},
+        {"module" : "creating-container-components"},
+        {"module" : "ngtasty"},
+        {"module" : "typescript-and-es6"},
+        {"module" : "ng-wat"}
       ]
     }
   ],
@@ -21,7 +26,12 @@
     {"olm" : "./modules/day1-keynote.md"},
     {"olm" : "./modules/state-of-angular-1.md"},
     {"olm" : "./modules/the-new-router.md"},
-    {"olm" : "./modules/prototyping-with-angular.md"}
+    {"olm" : "./modules/prototyping-with-angular.md"},
+    {"olm" : "./modules/fast-from-the-start.md"},
+    {"olm" : "./modules/creating-container-components.md"},
+    {"olm" : "./modules/ngtasty.md"},
+    {"olm" : "./modules/typescript-and-es6.md"},
+    {"olm" : "./modules/ng-wat.md"}
 
   ],
 
