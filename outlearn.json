@@ -28,7 +28,22 @@
         {"module" : "ionic-and-angular-superpowers"},
         {"module" : "angular-behind-the-scenes"},
         {"module" : "typescript-and-angular-20"},
-        {"module" : "binding-to-the-cloud-with-falcor"}
+        {"module" : "binding-to-the-cloud-with-falcor"},
+        {"module" : "ng-conf-2015-keynote-2"},
+        {"module" : "building-platforms-with-angular"},
+        {"module" : "reactive-all-the-things"},
+        {"module" : "angular-1.3-meets-angular-2.0"},
+        {"module" : "digging-into-angular-style-guide-decisions"},
+        {"module" : "better-i18n-for-your-angular-apps"},
+        {"module" : "badges-we-don't-need-no-stinkin'-badges"},
+        {"module" : "build-an-angular-material-app"},
+        {"module" : "change-detection-reinvented"},
+        {"module" : "superpower-management"},
+        {"module" : "angular-team-panelqa-googlers"},
+        {"module" : "whats-new-in-nganimate"},
+        {"module" : "angular-+-react-=-speed"},
+        {"module" : "adventures-in-angular-live-podcast"},
+        {"module" : "girl-scout-cookies"}
       ]
     }
   ],
@@ -53,8 +68,22 @@
     {"olm" : "./modules/ionic-and-angular-superpowers.md"},
     {"olm" : "./modules/angular-behind-the-scenes.md"},
     {"olm" : "./modules/typescript-and-angular-20.md"},
-    {"olm" : "./modules/binding-to-the-cloud-with-falcor.md"}
-
+    {"olm" : "./modules/binding-to-the-cloud-with-falcor.md"},
+    {"olm" : "./modules/ng-conf-2015-keynote-2.md"},
+    {"olm" : "./modules/building-platforms-with-angular.md"},
+    {"olm" : "./modules/reactive-all-the-things.md"},
+    {"olm" : "./modules/angular-1.3-meets-angular-2.0.md"},
+    {"olm" : "./modules/digging-into-angular-style-guide-decisions.md"},
+    {"olm" : "./modules/better-i18n-for-your-angular-apps.md"},
+    {"olm" : "./modules/badges-we-don't-need-no-stinkin'-badges.md"},
+    {"olm" : "./modules/build-an-angular-material-app.md"},
+    {"olm" : "./modules/change-detection-reinvented.md"},
+    {"olm" : "./modules/superpower-management.md"},
+    {"olm" : "./modules/angular-team-panelqa-googlers.md"},
+    {"olm" : "./modules/whats-new-in-nganimate.md"},
+    {"olm" : "./modules/angular-+-react-=-speed.md"},
+    {"olm" : "./modules/adventures-in-angular-live-podcast.md"},
+    {"olm" : "./modules/girl-scout-cookies.md"}
   ],
 
   "assets" : [
