@@ -23,7 +23,12 @@
         {"module" : "why-realtime-matters"},
         {"module" : "ngmodeloptions"},
         {"module" : "how-to-teach-angular-to-your-kids"},
-        {"module" : "run-digest-cycle-in-web-worker"}
+        {"module" : "run-digest-cycle-in-web-worker"},
+        {"module" : "sasqwatch-is-real"},
+        {"module" : "ionic-and-angular-superpowers"},
+        {"module" : "angular-behind-the-scenes"},
+        {"module" : "typescript-and-angular-20"},
+        {"module" : "binding-to-the-cloud-with-falcor"}
       ]
     }
   ],
@@ -43,7 +48,12 @@
     {"olm" : "./modules/why-realtime-matters.md"},
     {"olm" : "./modules/ngmodeloptions.md"},
     {"olm" : "./modules/how-to-teach-angular-to-your-kids.md"},
-    {"olm" : "./modules/run-digest-cycle-in-web-worker.md"}
+    {"olm" : "./modules/run-digest-cycle-in-web-worker.md"},
+    {"olm" : "./modules/sasqwatch-is-real.md"},
+    {"olm" : "./modules/ionic-and-angular-superpowers.md"},
+    {"olm" : "./modules/angular-behind-the-scenes.md"},
+    {"olm" : "./modules/typescript-and-angular-20.md"},
+    {"olm" : "./modules/binding-to-the-cloud-with-falcor.md"}
 
   ],
 
