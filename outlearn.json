@@ -17,7 +17,13 @@
         {"module" : "creating-container-components"},
         {"module" : "ngtasty"},
         {"module" : "typescript-and-es6"},
-        {"module" : "ng-wat"}
+        {"module" : "ng-wat"},
+        {"module" : "community-building"},
+        {"module" : "accessibility-design-made-easy"},
+        {"module" : "why-realtime-matters"},
+        {"module" : "ngmodeloptions"},
+        {"module" : "how-to-teach-angular-to-your-kids"},
+        {"module" : "run-digest-cycle-in-web-worker"}
       ]
     }
   ],
@@ -31,7 +37,13 @@
     {"olm" : "./modules/creating-container-components.md"},
     {"olm" : "./modules/ngtasty.md"},
     {"olm" : "./modules/typescript-and-es6.md"},
-    {"olm" : "./modules/ng-wat.md"}
+    {"olm" : "./modules/ng-wat.md"},
+    {"olm" : "./modules/community-building.md"},
+    {"olm" : "./modules/accessibility-design-made-easy.md"},
+    {"olm" : "./modules/why-realtime-matters.md"},
+    {"olm" : "./modules/ngmodeloptions.md"},
+    {"olm" : "./modules/how-to-teach-angular-to-your-kids.md"},
+    {"olm" : "./modules/run-digest-cycle-in-web-worker.md"}
 
   ],
 
