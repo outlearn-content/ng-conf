@@ -1,6 +1,6 @@
 <!--
 {
-"name" : "angular-+-react-=-speed",
+"name" : "angular-plus-react-equals-speed",
 "version" : "0.1",
 "title" : "Angular + React = Speed",
 "description" : "TBD",

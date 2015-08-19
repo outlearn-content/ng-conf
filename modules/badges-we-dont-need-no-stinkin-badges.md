@@ -1,6 +1,6 @@
 <!--
 {
-"name" : "badges-we-don't-need-no-stinkin'-badges",
+"name" : "badges-we-dont-need-no-stinkin-badges",
 "version" : "0.1",
 "title" : "Badges We don't need no stinkin' badges",
 "description" : "TBD",

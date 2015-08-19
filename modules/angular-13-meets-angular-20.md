@@ -1,6 +1,6 @@
 <!--
 {
-"name" : "angular-1.3-meets-angular-2.0",
+"name" : "angular-13-meets-angular-20",
 "version" : "0.1",
 "title" : "Angular 1.3 meets Angular 2.0",
 "description" : "TBD",
