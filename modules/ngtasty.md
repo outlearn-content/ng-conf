@@ -3,7 +3,7 @@
 "name" : "ngtasty",
 "version" : "0.1",
 "title" : "ngTasty",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/e6J_JZaIOAQ",
 "canonicalSource" : "https://www.youtube.com/embed/e6J_JZaIOAQ",
 "freshnessDate" : 2015-03-05,

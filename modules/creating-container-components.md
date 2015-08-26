@@ -3,7 +3,7 @@
 "name" : "creating-container-components",
 "version" : "0.1",
 "title" : "Creating Container Components with Web Components and Angular",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/AbunztfV5vU",
 "canonicalSource" : "https://www.youtube.com/embed/AbunztfV5vU",
 "freshnessDate" : 2015-03-05,

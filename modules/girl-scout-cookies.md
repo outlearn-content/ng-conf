@@ -3,7 +3,7 @@
 "name" : "girl-scout-cookies",
 "version" : "0.1",
 "title" : "Girl Scout Cookies",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/yh4ExTTrScQ",
 "canonicalSource" : "https://www.youtube.com/embed/yh4ExTTrScQ",
 "freshnessDate" : 2015-03-06,

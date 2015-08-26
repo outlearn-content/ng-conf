@@ -3,7 +3,7 @@
 "name" : "ngmodeloptions",
 "version" : "0.1",
 "title" : "ngModelOptions in 5 minutes",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/k3t3ov6xHDw",
 "canonicalSource" : "https://www.youtube.com/embed/k3t3ov6xHDw",
 "freshnessDate" : 2015-03-05,

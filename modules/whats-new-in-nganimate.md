@@ -3,7 +3,7 @@
 "name" : "whats-new-in-nganimate",
 "version" : "0.1",
 "title" : "Whats new in ngAnimate",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/R0OrxxJNcjU",
 "canonicalSource" : "https://www.youtube.com/embed/R0OrxxJNcjU",
 "freshnessDate" : 2015-03-06,

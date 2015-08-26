@@ -3,7 +3,7 @@
 "name" : "why-realtime-matters",
 "version" : "0.1",
 "title" : "Why Realtime Matters",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/4nD5fjpIesk",
 "canonicalSource" : "https://www.youtube.com/embed/4nD5fjpIesk",
 "freshnessDate" : 2015-03-05,

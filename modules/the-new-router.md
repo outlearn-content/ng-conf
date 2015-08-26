@@ -3,7 +3,7 @@
 "name" : "the-new-router",
 "version" : "0.1",
 "title" : "The New Router",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/vecg70fPDFw",
 "canonicalSource" : "https://www.youtube.com/embed/vecg70fPDFw",
 "freshnessDate" : 2015-03-05,

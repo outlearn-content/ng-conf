@@ -3,7 +3,7 @@
 "name" : "sasqwatch-is-real",
 "version" : "0.1",
 "title" : "Sasqwatch is Real",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/wbcJfg-d5nI",
 "canonicalSource" : "https://www.youtube.com/embed/wbcJfg-d5nI",
 "freshnessDate" : 2015-03-05,

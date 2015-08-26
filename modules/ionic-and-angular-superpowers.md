@@ -3,7 +3,7 @@
 "name" : "ionic-and-angular-superpowers",
 "version" : "0.1",
 "title" : "Ionic and Angular Superpowers for Mobile App Development",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/wvr11fvCeu4",
 "canonicalSource" : "https://www.youtube.com/embed/wvr11fvCeu4",
 "freshnessDate" : 2015-03-05,

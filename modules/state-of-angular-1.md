@@ -3,7 +3,7 @@
 "name" : "state-of-angular-1",
 "version" : "0.1",
 "title" : "State of Angular 1",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/ihAeffWJEIc",
 "canonicalSource" : "https://www.youtube.com/embed/ihAeffWJEIc",
 "freshnessDate" : 2015-03-05,

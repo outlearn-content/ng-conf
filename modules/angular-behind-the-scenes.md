@@ -3,7 +3,7 @@
 "name" : "angular-behind-the-scenes",
 "version" : "0.1",
 "title" : "Angular Behind The Scenes",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/MqCSWx9CJMo",
 "canonicalSource" : "https://www.youtube.com/embed/MqCSWx9CJMo",
 "freshnessDate" : 2015-03-05,

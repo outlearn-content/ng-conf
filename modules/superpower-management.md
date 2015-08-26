@@ -3,7 +3,7 @@
 "name" : "superpower-management",
 "version" : "0.1",
 "title" : "(Super)Power Management",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/IGeaXo2ZBr0",
 "canonicalSource" : "https://www.youtube.com/embed/IGeaXo2ZBr0",
 "freshnessDate" : 2015-03-06,

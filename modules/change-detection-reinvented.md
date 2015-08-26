@@ -3,7 +3,7 @@
 "name" : "change-detection-reinvented",
 "version" : "0.1",
 "title" : "Change Detection Reinvented",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/jvKGQSFQf10",
 "canonicalSource" : "https://www.youtube.com/embed/jvKGQSFQf10",
 "freshnessDate" : 2015-03-06,

@@ -3,7 +3,7 @@
 "name" : "ng-conf-2015-keynote-2",
 "version" : "0.1",
 "title" : "ng-conf 2015 Keynote 2",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/-dMBcqwvYA0",
 "canonicalSource" : "https://www.youtube.com/embed/-dMBcqwvYA0",
 "freshnessDate" : 2015-03-06,

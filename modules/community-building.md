@@ -3,7 +3,7 @@
 "name" : "community-building",
 "version" : "0.1",
 "title" : "Community Building How To Make More Angular Devs Now",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/jAjAMAPtZ1I",
 "canonicalSource" : "https://www.youtube.com/embed/jAjAMAPtZ1I",
 "freshnessDate" : 2015-03-05,

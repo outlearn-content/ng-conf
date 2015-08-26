@@ -3,7 +3,7 @@
 "name" : "typescript-and-es6",
 "version" : "0.1",
 "title" : "TypeScript and ES6",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/U7NYTKgkZgo",
 "canonicalSource" : "https://www.youtube.com/embed/U7NYTKgkZgo",
 "freshnessDate" : 2015-03-05,

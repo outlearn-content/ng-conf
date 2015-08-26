@@ -3,7 +3,7 @@
 "name" : "better-i18n-for-your-angular-apps",
 "version" : "0.1",
 "title" : "Better i18n for your Angular apps",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/iBBkCA1M-mc",
 "canonicalSource" : "https://www.youtube.com/embed/iBBkCA1M-mc",
 "freshnessDate" : 2015-03-06,

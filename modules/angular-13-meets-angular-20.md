@@ -3,7 +3,7 @@
 "name" : "angular-13-meets-angular-20",
 "version" : "0.1",
 "title" : "Angular 1.3 meets Angular 2.0",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/pai1ZdFI2dg",
 "canonicalSource" : "https://www.youtube.com/embed/pai1ZdFI2dg",
 "freshnessDate" : 2015-03-06,

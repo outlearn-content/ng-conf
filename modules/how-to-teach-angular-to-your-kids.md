@@ -3,7 +3,7 @@
 "name" : "how-to-teach-angular-to-your-kids",
 "version" : "0.1",
 "title" : "How to Teach Angular to your Kids",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/aH9Plt77cjM",
 "canonicalSource" : "https://www.youtube.com/embed/aH9Plt77cjM",
 "freshnessDate" : 2015-03-05,

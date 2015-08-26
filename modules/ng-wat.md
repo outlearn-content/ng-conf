@@ -3,7 +3,7 @@
 "name" : "ng-wat",
 "version" : "0.1",
 "title" : "ng-wat",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/M_Wp-2XA9ZU",
 "canonicalSource" : "https://www.youtube.com/embed/M_Wp-2XA9ZU",
 "freshnessDate" : 2015-03-05,

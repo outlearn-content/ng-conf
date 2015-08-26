@@ -3,7 +3,7 @@
 "name" : "badges-we-dont-need-no-stinkin-badges",
 "version" : "0.1",
 "title" : "Badges We don't need no stinkin' badges",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/hYXEuQZMLSM",
 "canonicalSource" : "https://www.youtube.com/embed/hYXEuQZMLSM",
 "freshnessDate" : 2015-03-06,

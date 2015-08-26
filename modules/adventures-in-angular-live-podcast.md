@@ -3,7 +3,7 @@
 "name" : "adventures-in-angular-live-podcast",
 "version" : "0.1",
 "title" : "Adventures in Angular Live Podcast",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/z0-dkOavwsg",
 "canonicalSource" : "https://www.youtube.com/embed/z0-dkOavwsg",
 "freshnessDate" : 2015-03-06,

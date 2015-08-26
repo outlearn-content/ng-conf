@@ -3,7 +3,7 @@
 "name" : "angular-team-panelqa-googlers",
 "version" : "0.1",
 "title" : "Angular Team PanelQA Googlers",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/5Sy2bgKhaAo",
 "canonicalSource" : "https://www.youtube.com/embed/5Sy2bgKhaAo",
 "freshnessDate" : 2015-03-06,

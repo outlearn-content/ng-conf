@@ -3,7 +3,7 @@
 "name" : "binding-to-the-cloud-with-falcor",
 "version" : "0.1",
 "title" : "Binding to the Cloud with Falcor",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/WiO1f6h15c8",
 "canonicalSource" : "https://www.youtube.com/embed/WiO1f6h15c8",
 "freshnessDate" : 2015-03-05,

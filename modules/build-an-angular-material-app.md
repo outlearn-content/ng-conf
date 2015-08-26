@@ -3,7 +3,7 @@
 "name" : "build-an-angular-material-app",
 "version" : "0.1",
 "title" : "Build an Angular Material App",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/Qi31oO5u33U",
 "canonicalSource" : "https://www.youtube.com/embed/Qi31oO5u33U",
 "freshnessDate" : 2015-03-06,

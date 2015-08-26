@@ -3,7 +3,7 @@
 "name" : "accessibility-design-made-easy",
 "version" : "0.1",
 "title" : "Accessibility Design Made Easy",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/_2Pt6Xx94Bc",
 "canonicalSource" : "https://www.youtube.com/embed/_2Pt6Xx94Bc",
 "freshnessDate" : 2015-03-05,

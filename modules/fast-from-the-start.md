@@ -3,7 +3,7 @@
 "name" : "fast-from-the-start",
 "version" : "0.1",
 "title" : "Fast from the Start ",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/x1PJn5qMUT4",
 "canonicalSource" : "https://www.youtube.com/embed/x1PJn5qMUT4",
 "freshnessDate" : 2015-03-05,

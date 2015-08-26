@@ -2,8 +2,8 @@
 {
 "name" : "typescript-and-angular-20",
 "version" : "0.1",
-"title" : "TypeScript and Angular 20",
-"description" : "TBD",
+"title" : "TypeScript and Angular 2",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/Xw93oketp18",
 "canonicalSource" : "https://www.youtube.com/embed/Xw93oketp18",
 "freshnessDate" : 2015-03-05,

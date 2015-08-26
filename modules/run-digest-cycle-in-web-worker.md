@@ -3,7 +3,7 @@
 "name" : "run-digest-cycle-in-web-worker",
 "version" : "0.1",
 "title" : "Run digest cycle in web worker",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/lceLw8ROUP8",
 "canonicalSource" : "https://www.youtube.com/embed/lceLw8ROUP8",
 "freshnessDate" : 2015-03-05,

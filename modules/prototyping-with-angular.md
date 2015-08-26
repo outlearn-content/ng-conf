@@ -3,7 +3,7 @@
 "name" : "prototyping-with-angular",
 "version" : "0.1",
 "title" : "Prototyping with Angular? YES",
-"description" : "TBD",
+"description" : "Learn about the latest developments in the Angular world.",
 "homepage" : "https://www.youtube.com/embed/ufZpHuiyepg",
 "canonicalSource" : "https://www.youtube.com/embed/ufZpHuiyepg",
 "freshnessDate" : 2015-03-05,
